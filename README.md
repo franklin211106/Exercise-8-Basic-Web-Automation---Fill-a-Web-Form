@@ -1,7 +1,7 @@
 # Exercise-8-Basic-Web-Automation---Fill-a-Web-Form
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : FRANKLIN.F
+Reg.No : 212224240041  
 ~~~
 
 ## Aim
@@ -61,7 +61,7 @@ Click the submit button
 
 ![Screenshot 2025-05-12 084016](https://github.com/user-attachments/assets/69cbe10d-4167-4f6a-a53f-8613bb2cc60e)
 
-![Screenshot 2025-05-12 084046](https://github.com/user-attachments/assets/9e782ea9-d763-41be-8312-93dc307d62a8)
+![image](https://github.com/user-attachments/assets/ce531741-25a9-44c7-9579-437efdd663ff)
 
 ## Result:
 UiPath successfully automates form-filling tasks in a browser and submits a web-based contact form using Web Automation techniques.
